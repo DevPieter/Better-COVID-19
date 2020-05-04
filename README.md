@@ -11,4 +11,4 @@
 ```
 spoiler
 ### SPOILER ALERT
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://github.com/SuperPieter/Better-COVID-19/blob/master/covid-19.png)]
