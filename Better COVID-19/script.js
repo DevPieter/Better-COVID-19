@@ -7,7 +7,7 @@ function replaceTextCovid(element) {
       if(element.textContent.match(re)) {
         const newElement = document.createElement('span');
         newElement.innerHTML = element.textContent.replace(re, '<span class="SuperGRB"><b>COVID-19 🤢</b></span>')
-        element.replaceWith(newElement)
+          element.replaceWith(newElement)
     }
   }
 }
