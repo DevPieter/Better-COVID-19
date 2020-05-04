@@ -7,5 +7,5 @@
 
 ```sh
 Covid-19 \ cOvid-19 \ coVid-19 \ covId-19 \ coviD-19
-cOvid-19 \ coVid-19 \ covId-19 \ coviD-19
+\ cOvid-19 \ coVid-19 \ covId-19 \ coviD-19
 ```
