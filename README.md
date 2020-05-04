@@ -11,9 +11,8 @@
 ```
 
 <details>
-  <summary>### SPOILER ALERT</summary>
-#### -----
+  <summary>SPOILER ALERT</summary>
+  
 ![N|Solid](https://github.com/SuperPieter/Better-COVID-19/blob/master/covid-19.png)
-#### -----
   
 </details>
