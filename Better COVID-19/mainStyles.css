@@ -1,0 +1,20 @@
+body {
+    
+    background-color: #2c2c2c;
+    color: white;
+    min-width: 175px;
+    max-width: 175px;
+    position: relative;
+    vertical-align:middle;
+}
+.title {
+    text-align: center;
+  }
+a{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+.covid {
+    color: springgreen;
+}

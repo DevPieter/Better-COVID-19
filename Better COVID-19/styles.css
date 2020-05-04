@@ -1,0 +1,20 @@
+.SuperGRB {
+    -webkit-animation: glow 2s ease-in-out infinite alternate;
+    -moz-animation: glow 2s ease-in-out infinite alternate;
+    animation: glow 2s ease-in-out infinite alternate;
+
+    color: -webkit-linear-gradient( 92deg, #95d7e3, #eb76ff );
+    color: linear-gradient( 92deg, #95d7e3, #eb76ff );
+}
+@-webkit-keyframes glow {
+    from {
+    filter: hue-rotate(360deg);
+    background-position-x: 600vw;
+    text-shadow: 0 0 0px #fff, 0 0 1px #fff, 0 0 2px #e60073, 0 0 3px #e60073, 0 0 4px #e60073, 0 0 5px #e60073, 0 0 6px #e60073;
+    }
+    to {
+    filter: hue-rotate(0deg);
+    background-position-x: 2%;
+    text-shadow: 0 0 1px #fff, 0 0 2px #ff4da6, 0 0 3px #ff4da6, 0 0 4px #ff4da6, 0 0 5px #ff4da6, 0 0 6px #ff4da6, 0 0 7px #ff4da6;
+  }
+}
