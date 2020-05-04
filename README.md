@@ -9,3 +9,6 @@
 \ covid-19 \ Covid-19 \ cOvid-19 \ coVid-19 \ covId-19 \ coviD-19 \
 \ COviD-19 \ cOVId-19 \ cOvId-19 \ CoViD-19 \ COVid-19 \ COVID-19 \
 ```
+spoiler
+### SPOILER ALERT
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
