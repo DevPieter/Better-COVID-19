@@ -1,0 +1,6 @@
+#1 - Download the file " Better COVID-19 "
+#2 - Go to the site " chrome://extensions/ "
+#3 - Turn on Developer mode (in the top right)
+#4 - Click " Load extracted extension " (in the top left)
+#5 - Select the file " Better COVID-19 "
+#6 - Done!
