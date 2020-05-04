@@ -6,7 +6,5 @@
 ##### If you have installed the extension, look at this text below.
 
 ```sh
-
-
-coviD-19
+Covid-19 \ cOvid-19 \ coVid-19 \ covId-19
 ```
