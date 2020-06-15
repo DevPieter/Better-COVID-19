@@ -1,1 +1,1 @@
-(Test)["https://devpieter.nl/github/better-covid-19/"]
+[More Info](https://devpieter.nl/github/better-covid-19/)
